@@ -1,7 +1,5 @@
 # Mosquito Sentinel: AI-Powered Mosquito Species Detection
 
-![Mosquito Sentinel Logo](https://via.placeholder.com/150?text=Mosquito+Sentinel)
-
 Mosquito Sentinel is an innovative AI-driven application that detects mosquito species in real-time using their unique wingbeat sounds. Built with deep learning and deployed via a user-friendly Streamlit web app, it identifies 38 mosquito species, provides critical information on associated diseases and control measures, and lays the foundation for crowdsourced risk mapping to prevent mosquito-borne diseases like malaria, dengue, and Zika. This project tackles a global health crisis with accessible, scalable technology, making it ideal for communities, researchers, and public health officials.
 
 ## Table of Contents
@@ -161,15 +159,10 @@ We welcome contributions! To get started:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-Please follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - **HumBugDB**: For providing the mosquito audio dataset (Zenodo: 4904800).
 - **ESC-50**: For environmental noise data.
 - **Streamlit, PyTorch, Torchaudio**: For enabling rapid development and deployment.
 - **WHO & CDC**: For public health data inspiring this project.
 
-For issues or questions, contact [Your Name] at [your.email@example.com]. Let's fight mosquito-borne diseases together! 🦟
+For issues or questions, contact Akash BR at akashbellaryramesh123@gmail.com. Let's fight mosquito-borne diseases together! 🦟
